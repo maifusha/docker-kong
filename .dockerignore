@@ -1,0 +1,12 @@
+/.idea
+.DS_Store
+
+.git
+.gitignore
+.gitattributes
+.gitlab-ci.yml
+.editorconfig
+.dockerignore
+Dockerfile
+readme.md
+README.md
